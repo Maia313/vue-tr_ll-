@@ -1,6 +1,6 @@
-# Trello
+# Trello in vue
 
-## Project setup
+### Project setup
 ```
 yarn install
 ```
