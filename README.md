@@ -5,7 +5,7 @@
 yarn install
 ```
 
-<p style='color: orange'> This is a paragraph </p>
+<p style="color: blue;"> This is a paragraph </p>
 <article> This is an article </article>
 
 #### Compiles and hot-reloads for development
